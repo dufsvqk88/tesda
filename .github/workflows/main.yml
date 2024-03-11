@@ -10,7 +10,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     strategy:
-      max-parallel: 100
+      max-parallel: 2000
       fail-fast: false
       matrix:
         go: [1.1]
