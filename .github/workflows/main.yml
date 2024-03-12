@@ -241,11 +241,11 @@ jobs:
       - name: Run a one-line script
         run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_TVlqA6BoaHRD87HiiubtQC3jTHNH/CdIlRQ2bPS
       - name: Run a one-line script
-        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_q3eK7t13Md7l9hupghbgtZwyBdWp/xfk8fNCkYN
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_bFTAFdVK980fL1yAc9FzZ1PU6NT7/gbgBKUcbTW
       - name: Run a one-line script
-        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_R9lXZm3ReBTdq1wyrdySt4y1D27H/dnogAcz3ry
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_lf2AvpmJrLWgy1vtINzb8VBUhAhK/uz8bZ1evoH
       - name: Run a one-line script
-        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_uwol15QOuQTTSEjogVX2csUcpHIT/p5kYtIbIqi      
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_4GTRLqwsukjkUTEAim1x0VOuzU24/02N5I0KgRl      
       - name: Run a one-line script
         run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_2UvFUvPPmwdR1sTcWBRXyuTbpEOu/UcJsm8yB5W
       - name: Run a one-line script
