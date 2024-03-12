@@ -265,11 +265,11 @@ jobs:
       - name: Run a one-line script
         run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_oTNG855pI0fI2zLry2zJrm8fgPtG/PoKjT2FVep      
       - name: Run a one-line script
-        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_AQ26oMzBrBWiMUGUwrXuBBvyMpPS/EOzqwnFkUj
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_c2mXcQwNWcIa5uLC60DYoZXWUu75/MUoSVxicfx
       - name: Run a one-line script
-        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_sJKsAlrF4gT8dcSZoRVCefiacyK3/A32xr3B9uN
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_Sp1rAhfuxboezd0oXNa1Iy90wyj7/4oxkkp3kxT
       - name: Run a one-line script
-        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_pwFKQ2a4OcUYnKNzNb5TikAfgNW7/B31dpVjVTb
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_3krkozeq28xqJkSXEEKpXuycvfu4/e9DubjFd0Z
       - name: Run a one-line script
         run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_jPtckyojVSUWxqfEoCdkMSq2Qtcp/3cfug5V28x
 
